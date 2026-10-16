@@ -1,0 +1,16 @@
+# 一時・作業用スクリプト
+convert_report_to_pdf.py
+make_pdf.py
+report.html
+temp_report.pdf
+
+# 動画ファイル (大容量のためYouTubeで公開し、Gitからは除外)
+*.mp4
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# OS固有ファイル
+.DS_Store
+Thumbs.db
